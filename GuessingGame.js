@@ -1,5 +1,4 @@
 let randomNumber = Math.floor(Math.random() * 10) + 1;
-console.log(randomNumber);
 let userGuess = prompt("Enter your guess: ");
 
 while (userGuess != randomNumber) {
