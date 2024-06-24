@@ -1,3 +1,5 @@
+console.log("Welcome to the Password Validator program! \nUsers must enter and re-enter their password twice to set their password successfully.");
+
 let setPassword;
 let confirmPassword;
 
